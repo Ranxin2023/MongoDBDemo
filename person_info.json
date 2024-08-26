@@ -1,0 +1,9 @@
+{
+    "name": "Alice",
+    "interests":["read book", "hiking"],
+    "address":{
+        "country":"USA", 
+        "city": "San Francisco", 
+        "street":"123 main st"
+    }
+}
